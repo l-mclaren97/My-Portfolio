@@ -1,0 +1,25 @@
+.header
+{
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header-left
+{
+    background-color: lightpink;
+    margin-right: 40px;
+}
+
+.header-right
+{
+    background-color: lightgreen;
+}
+
+.nav-bar
+{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
