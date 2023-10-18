@@ -9,7 +9,7 @@ let total = sub_total + tax;
   comment
   */
 
-  // this is a sigal line comment
+  // this is a single line comment
 
 console.log(
 `Items ${items}: $${item_cost / 100}
