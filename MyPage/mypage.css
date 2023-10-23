@@ -1,0 +1,8 @@
+.page
+  {
+    display: flex;
+    background-color: aqua;
+    flex: 1vh;
+    padding: 1000px 20px;
+  }
+
